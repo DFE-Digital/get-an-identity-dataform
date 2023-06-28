@@ -1,5 +1,5 @@
 {
-    "name": "get-an-identity",
+    "name": "refer-serious-misconduct",
     "dependencies": {
         "@dataform/core": "2.3.2",
         "dfe-analytics-dataform": "https://github.com/DFE-Digital/dfe-analytics-dataform/archive/refs/tags/v1.4.2.tar.gz"
