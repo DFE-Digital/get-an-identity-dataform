@@ -2,5 +2,6 @@
     "warehouse": "bigquery",
     "defaultSchema": "dataform",
     "assertionSchema": "dataform_assertions",
-    "defaultDatabase": "get-an-identity"
+    "defaultDatabase": "get-an-identity",
+    "defaultLocation": "europe-west2"
 }
